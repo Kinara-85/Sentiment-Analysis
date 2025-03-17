@@ -6,7 +6,7 @@ This project uses **Deep Learning** to analyze the sentiment of IMDB movie revie
 
 ## 📌 Overview
 
-- **Dataset**: [IMDB movie reviews dataset](https://drive.google.com/file/d/1Q3jArl3FvcxRVX13xUXpJrY-FTRYxgQ2/view?usp=drive_link) (CSV format)
+- **Dataset**: [IMDB movie reviews dataset](https://drive.google.com/file/d/1He6pot7hsWfSURS0Kh-MlmDyQqfRUUdd/view?usp=drive_link) (CSV format)
 - **Goal**: Predict whether a review is **positive** or **negative**
 - **Methods Used**:
   - **Data Preprocessing**: Cleaning and tokenizing text
@@ -69,5 +69,5 @@ We experiment with three models:
 ---
 
 ## 📚 Credits
-- Dataset Source: **[Skillcate AI](https://drive.google.com/file/d/1Q3jArl3FvcxRVX13xUXpJrY-FTRYxgQ2/view?usp=drive_link)**
+- Dataset Source: **[Skillcate AI](https://drive.google.com/file/d/1He6pot7hsWfSURS0Kh-MlmDyQqfRUUdd/view?usp=drive_link)**
 
